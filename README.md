@@ -67,3 +67,7 @@ Coding Bootcamps: To conduct mini-exams or concept checks after each topic.
 ✅ Conclusion
 This project demonstrates how fundamental web technologies can be used to build a fully functional, engaging, and practical web application. It encourages the use of modular code, dynamic content handling, and responsive design — essential skills for any front-end developer. The quiz app is a strong foundational project for interns and beginners looking to improve their understanding of JavaScript logic and interactive web design.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0a5758fc-5676-47ab-bf80-7cf8e5c847ab)
+
