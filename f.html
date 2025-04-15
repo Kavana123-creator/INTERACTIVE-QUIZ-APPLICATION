@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Interactive Quiz App</title>
+  <link rel="stylesheet" href="p2.css" />
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>CodTech Quiz App</h1>
+    <div id="quiz-box">
+      <div id="question-box">
+        <h2 id="question">Question Text</h2>
+        <ul id="options-list"></ul>
+        <p id="feedback"></p>
+      </div>
+      <button id="next-btn">Next</button>
+      <p id="progress">Question 1 of 5</p>
+    </div>
+    <div id="result-box" class="hide">
+      <h2 id="score-text"></h2>
+      <button onclick="restartQuiz()">Restart Quiz</button>
+    </div>
+  </div>
+  <script src="p3.js"></script>
+</body>
+</html>
